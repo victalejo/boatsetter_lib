@@ -8,7 +8,8 @@
     "build": "tsc",
     "test": "jest",
     "example:login": "ts-node examples/login-example.ts",
-    "lint": "eslint . --ext .ts"
+    "lint": "eslint . --ext .ts",
+    "example:bloqueo": "ts-node examples/bloqueo-reservas-ejemplo.ts"
   },
   "keywords": [
     "boatsetter",
